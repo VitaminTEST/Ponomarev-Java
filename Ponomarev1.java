@@ -45,5 +45,5 @@ public class Ponomarev1 {
         else {
         	System.out.println("Частное: " + a / b);
         	}
-		}
+	}
 }
